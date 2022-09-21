@@ -1,0 +1,42 @@
+name
+k=await mk.feeAccount()
+k
+const k=await mk.feePercent()
+mk
+const mk=await ethers.getContractAt("Marketplace","0x0165878A594ca255338adfa4d48449f69242Eb8F")
+tokenCount
+const tokenCount= await contract.getTokenCount()
+contract
+const contract = await ethers.getContractAt("NFT","0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9")
+const tokenCount=await contract.tokenCount()
+contract
+const contract = await ethers.getContractAt("NFT","0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0")
+.exit
+contract
+const contract = await ethers.getContractAt("NFT","0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+.exit 
+const tokenCount2=await contract.curTokenId()
+const tokenCount=await contract.curTokenIdt()
+const tokenCount=await contract.tokenCount()
+const contract= await ethers.getContractAt("NFT","0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+.exit
+const contract= await ethers.getContractAt("NFT"," 0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512)
+.exit
+const tokenCount = await contract.tokenCount()
+const _tokenCount=await contract.tokenCount()
+const tokenCount=await contract.tokenCount()
+const tokenCount=await contract.curTokenId()
+const contract= await ethers.getContractAt("NFT","0x5FbDB2315678afecb367f032d93F642f64180aa3")
+const contract= await ethers.getContractAt("NFT,"0x5FbDB2315678afecb367f032d93F642f64180aa3")
+.exit
+exit.
+exit
+const tokenCount= await contract.curTokenId();
+const tokenCount= await contract.tokenCount();
+contract
+const contract= await ethers.getContractAt("NFT,"0x5FbDB2315678afecb367f032d93F642f64180aa3");
+const tokenCount = await contract.curTokenId();
+const tc=await contract.curTokenId();
+const tc=contract.curTokenId();
+const contract= await ethers.getContractAt("NFT,"0x5FbDB2315678afecb367f032d93F642f64180aa3");
+cont contract= await ethers.getContractAt("NFT,"0x5FbDB2315678afecb367f032d93F642f64180aa3");
